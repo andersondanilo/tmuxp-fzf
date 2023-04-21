@@ -4,6 +4,10 @@ Display a tmux popup/dialog to select a session from [tmuxp](https://github.com/
 
 Based on [tmux-fzf](https://github.com/sainnhe/tmux-fzf)
 
+## Preview
+![image](https://user-images.githubusercontent.com/5572326/233698291-23360f70-278e-4a90-a551-3932649be796.png)
+
+
 ## Requeriments
 - fzf
 - tmuxp
